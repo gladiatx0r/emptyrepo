@@ -2,7 +2,7 @@ def hello():
     """
     Print out Hello World in a function.
     """
-    print("Hello World in a function MODIFIED.")
+    print("Hello World in a function MODIFIED x 2.")
 
 # Call a function that prints out Hello World
 hello()
