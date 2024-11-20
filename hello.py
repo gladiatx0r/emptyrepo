@@ -14,4 +14,5 @@ print("Just saying Hello World")
 str = "Hello World in a variable"
 print(str)
 
-print("-----------------------------------------------------------------------------------------")
+print("------")
+
