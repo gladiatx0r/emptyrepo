@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 def hello():
     """
     Print out Hello World in a function.
