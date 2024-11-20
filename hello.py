@@ -5,7 +5,9 @@ def hello():
     Print out Hello World in a function.
     """
     import platform
-    print("Hello World in a function MODIFIED x 6.")
+    import time
+    time.sleep(10)
+    print("Hello World in a function MODIFIED x 7.")
     print(platform.system())
 
 # Call a function that prints out Hello World
