@@ -1,10 +1,8 @@
-import platform
-
 def hello():
     """
     Print out Hello World in a function.
     """
-    print("Hello World in a function MODIFIED x 3.")
+    print("Hello World in a function MODIFIED x 4.")
     print(platform.system())
 
 # Call a function that prints out Hello World
